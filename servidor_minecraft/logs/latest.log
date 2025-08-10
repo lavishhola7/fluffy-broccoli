@@ -77,3 +77,32 @@
 [10Aug2025 22:54:35.157] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player genaraab is d3795d26-18d4-4215-9220-7a82e5c8a663
 [10Aug2025 22:54:36.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: genaraab[/127.244.90.39:46983] logged in with entity id 1228 at (-5.5, 63.0, 30.5)
 [10Aug2025 22:54:36.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab joined the game
+[10Aug2025 22:54:43.109] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
+[10Aug2025 22:54:44.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:60585] logged in with entity id 1266 at (34.32819654884181, 64.0, 15.426382821950805)
+[10Aug2025 22:54:44.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
+[10Aug2025 22:55:29.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab was slain by Agus2000
+[10Aug2025 22:56:31.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho has made the advancement [Sweet Dreams]
+[10Aug2025 22:56:54.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 was shot by Skeleton
+[10Aug2025 22:57:02.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho was slain by genaraab
+[10Aug2025 22:57:24.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab has made the advancement [Sweet Dreams]
+[10Aug2025 22:57:30.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Timed out
+[10Aug2025 22:57:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
+[10Aug2025 22:57:49.619] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player jocandinho is b7b4a8e5-8d83-45dd-abce-04558aa09f7d
+[10Aug2025 22:57:52.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jocandinho[/127.130.56.100:32989] logged in with entity id 2587 at (-163.1912182317157, 128.17675927506423, 309.2683259784529)
+[10Aug2025 22:57:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho joined the game
+[10Aug2025 22:58:22.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jocandinho lost connection: Timed out
+[10Aug2025 22:58:22.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jocandinho left the game
+[10Aug2025 22:58:40.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: genaraab was shot by Skeleton
+[10Aug2025 22:59:00.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Agus2000 lost connection: Disconnected
+[10Aug2025 22:59:00.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Agus2000 left the game
+[10Aug2025 22:59:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Aug2025 22:59:04.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Aug2025 22:59:04.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Aug2025 22:59:04.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Aug2025 22:59:05.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Aug2025 22:59:08.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Aug2025 22:59:08.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Aug2025 22:59:08.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Aug2025 22:59:08.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Aug2025 22:59:08.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Aug2025 22:59:08.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
